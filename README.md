@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/80675685/123733454-c1696980-d8c5-11eb-8e45-f66ba989c6ee.mp4
+
 # # Computer Graphic & Computer Vision
 
 ## Danh sách thành viên
